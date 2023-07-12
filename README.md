@@ -1,9 +1,9 @@
 ## SETUP - TL;DR
 
-* Install the necessary python packages, using
+* Install the necessary python packages, using:
 >  ``> pip install -r ./docs/requirements.txt``
 
-* On Linux: Install ``./docs/packages.txt`` **only if needed**, using
+* On Linux: Install ``./docs/packages.txt`` **only if needed**, using:
 >``> sudo <package manager> install $(cat ./docs/packages.txt)``
 
 * To start the app, call from this directory:
