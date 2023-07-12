@@ -64,8 +64,8 @@ def put_labels(image, labels, x0, y0, x1, y1):
 
     box_start = y0-H//10
     box_end   = y0-H//36
-    lab1_posn = (x0-10,y0-H//10-5)
-    lab2_posn = (x0-10,y0-H//10+20)
+    lab1_posn = (x0-10,y0-H//10+15)
+    lab2_posn = (x0-10,y0-H//10+40)
     
     cv.rectangle(
         image, 
