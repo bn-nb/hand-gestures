@@ -20,7 +20,7 @@
    * the pre-trained mediapipe handlandmarker model from google.
    * our ExtraTreesClassifier model, with the training script.
    * the training data (10000 examples) in a ```.npz``` file.
-* To collect more training data, run  ``backend.py``  as ``__main__``
+* To collect more training data, run  ``backend.py``  as ``__main__``.
 
 ## CHECKS
 
